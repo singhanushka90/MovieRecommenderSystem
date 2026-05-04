@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=200&section=header&text=MovieMate-AI&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">🎬 Movie</h1>
+<h1 align="center">🎬 MovieRecommenderSystem</h1>
 <h3 align="center">AI-Powered Movie Recommendation System</h3>
 
 <p align="center">
