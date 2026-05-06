@@ -15,7 +15,7 @@
 
 <hr/>
 
-<h2>🧠 Overview</h2>
+<h2>🧠 OVERVIEW</h2>
 <p>
 <b>MovieMate-AI</b> is an intelligent movie recommendation system that suggests similar movies based on user preferences. 
 It uses content-based filtering techniques to recommend movies with similar genres, keywords, and features.
