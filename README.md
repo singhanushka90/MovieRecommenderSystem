@@ -40,7 +40,7 @@ Vectorization → Similarity Matrix → Recommendation Engine
 
 <hr/>
 
-<h2>✨ KEY FEATURES</h2>
+<h2>✨ Key Features </h2>
 
 <table>
 <tr><th>Feature</th><th>Description</th></tr>
