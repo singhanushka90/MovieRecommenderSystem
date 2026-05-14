@@ -31,7 +31,7 @@ It uses content-based filtering techniques to recommend movies with similar genr
 
 <hr/>
 
-<h2>⚙️ System pipeline </h2>
+<h2>⚙️pipeline </h2>
 
 <pre>
 Movie Dataset → Data Cleaning → Feature Extraction → 
