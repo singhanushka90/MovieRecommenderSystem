@@ -165,7 +165,7 @@ Top 5 similar movies:
 <h2>👩‍💻 Author</h2>
 
 <p align="center">
-  <b>Anushka Singh</b><br/>
+  <b> Singh</b><br/>
   AI Engineer | Machine Learning | NLP
 </p>
 
