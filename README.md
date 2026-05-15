@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🎬 MovieRecommenderSystem</h1>
-<h3 align="center">Movie Recommendation System</h3>
+<h3 align="center">Movie Recommendation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" />
