@@ -58,7 +58,7 @@ Vectorization → Similarity Matrix → Recommendation Engine
 <ul>
   <li>Combine important features (genres, overview, keywords)</li>
   <li>Convert text into numerical vectors (TF-IDF / CountVectorizer)</li>
-  <li>Compute similarity using <b>cosine similarity</b></li>
+  <li>Compute  using <b>cosine similarity</b></li>
   <li>Return top similar movies</li>
 </ul>
 
