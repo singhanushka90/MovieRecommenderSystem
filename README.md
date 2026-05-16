@@ -1,6 +1,6 @@
 <!-- 🎬 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=200&section=header&text=MovieRecommenderSystem&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=200&section=header&text=MovieRecommender&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h1 align="center">🎬 MovieRecommender</h1>
