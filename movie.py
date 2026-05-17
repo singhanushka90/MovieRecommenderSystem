@@ -14,7 +14,7 @@ def recommend(movie):
     return [movies.iloc[i[0]].title for i in movies_list]
 
 # ----------------- Streamlit UI -----------------
-st.set_page_config(page_title="🎬 Movie Recommender", layout="wide")
+st.set_page_config(page_title="🎬 Movie Recommender System", layout="wide")
 
 # Sidebar
 st.sidebar.title("🎬 Movie Recommender ")
