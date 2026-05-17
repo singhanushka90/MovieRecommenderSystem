@@ -10,20 +10,20 @@ similarity = pickle.load(open('similarity.pkl', 'rb'))
 def recommend(movie):
     movie_index = movies[movies['title'] == movie].index[0]
     distances = similarity[movie_index]
-    movies_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x: x[1])[1:6]
+    movies_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x: x[1])[1:6]cd
     return [movies.iloc[i[0]].title for i in movies_list]
 
 # ----------------- Streamlit UI -----------------
 st.set_page_config(page_title="🎬 Movie Recommender", layout="wide")
 
 # Sidebar
-st.sidebar.title("🎬 Movie Recommender System")
+st.sidebar.title("🎬 Movie Recommender ")
 st.sidebar.write("Use this app to get top 5 similar movies based on your choice.")
 menu = st.sidebar.radio("Navigate", ["Home", "Recommend", "About"])
 
 # Home Page
 if menu == "Home":
-    st.title("🎥 Welcome to the Movie Recommender System")
+    st.title("🎥 WELCOME to the Movie Recommender System")
     st.write("""
     This app recommends movies based on **content similarity**.  
     Select a movie and get 5 best similar recommendations instantly!
