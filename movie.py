@@ -17,7 +17,7 @@ def recommend(movie):
 st.set_page_config(page_title="🎬 Movie Recommender System", layout="wide")
 
 # Sidebar
-st.sidebar.title("🎬 Movie Recommender ")
+st.sidebar.title("🎬 Movie Recommender System")
 st.sidebar.write("Use this app to get top 5 similar movies based on your choice.")
 menu = st.sidebar.radio("Navigate", ["Home", "Recommend", "About"])
 
