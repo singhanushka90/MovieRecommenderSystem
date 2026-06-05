@@ -117,6 +117,7 @@ Dataset contains movie metadata including:
 MovieMate-AI/
 ├── movie_rec.ipynb
 ├── tmdb_5000_credits.csv
+|--- tmdb_5000_movies.csv
 ├── similarity.pkl
 ├── movie.py
 └── README.md
