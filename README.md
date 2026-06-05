@@ -115,7 +115,7 @@ Dataset contains movie metadata including:
 
 <pre>
 MovieMate-AI/
-├── movie_recommender.ipynb
+├── movie_rec.ipynb
 ├── movies.csv
 ├── similarity.pkl
 ├── movie.py
