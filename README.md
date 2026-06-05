@@ -118,7 +118,7 @@ MovieMate-AI/
 ├── movie_recommender.ipynb
 ├── movies.csv
 ├── similarity.pkl
-├── app.py
+├── movie.py
 └── README.md
 </pre>
 
