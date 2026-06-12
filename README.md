@@ -48,7 +48,7 @@ Vectorization → Similarity Matrix → Recommendation Engine
 <tr><td>📊 Feature Engineering</td><td>Genres, keywords, and metadata used</td></tr>
 <tr><td>⚡ Fast Recommendations</td><td>Instant similarity-based results</td></tr>
 <tr><td>🔍 Search Functionality</td><td>Find movies easily</td></tr>
-<tr><td>📈 Scalable System</td><td>Works with large datasets</td></tr>
+<tr><td>📈 Scalable </td><td>Works with large datasets</td></tr>
 </table>
 
 <hr/>
